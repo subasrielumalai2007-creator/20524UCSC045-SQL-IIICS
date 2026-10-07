@@ -1,0 +1,49 @@
+INSERT INTO CROP_PRODUCTION VALUES(1,'Tamil Nadu','Chennai','Rice',2020,'Kharif',1200,3600,3);
+
+INSERT INTO CROP_PRODUCTION VALUES(2,'Tamil Nadu','Thanjavur','Rice',2021,'Kharif',1500,5250,3.5);
+
+INSERT INTO CROP_PRODUCTION VALUES(3,'Tamil Nadu','Madurai','Cotton',2020,'Kharif',1000,2200,2.2);
+
+INSERT INTO CROP_PRODUCTION VALUES(4,'Tamil Nadu','Salem','Maize',2021,'Rabi',800,2800,3.5);
+
+INSERT INTO CROP_PRODUCTION VALUES(5,'Tamil Nadu','Coimbatore','Sugarcane',2022,'Whole Year',900,8100,9);
+
+INSERT INTO CROP_PRODUCTION VALUES(6,'Punjab','Amritsar','Wheat',2020,'Rabi',2000,9000,4.5);
+
+INSERT INTO CROP_PRODUCTION VALUES(7,'Punjab','Ludhiana','Rice',2021,'Kharif',1800,8100,4.5);
+
+INSERT INTO CROP_PRODUCTION VALUES(8,'Punjab','Patiala','Wheat',2022,'Rabi',2200,11000,5);
+
+INSERT INTO CROP_PRODUCTION VALUES(9,'Punjab','Bathinda','Cotton',2021,'Kharif',1200,2400,2);
+
+INSERT INTO CROP_PRODUCTION VALUES(10,'Maharashtra','Pune','Sugarcane',2020,'Whole Year',2500,22500,9);
+
+INSERT INTO CROP_PRODUCTION VALUES(11,'Maharashtra','Nashik','Onion',2021,'Rabi',1100,9900,9);
+
+INSERT INTO CROP_PRODUCTION VALUES(12,'Maharashtra','Nagpur','Cotton',2022,'Kharif',1600,3200,2);
+
+INSERT INTO CROP_PRODUCTION VALUES(13,'Karnataka','Bangalore','Ragi',2020,'Kharif',900,2700,3);
+
+INSERT INTO CROP_PRODUCTION VALUES(14,'Karnataka','Mysore','Rice',2021,'Kharif',1300,4550,3.5);
+
+INSERT INTO CROP_PRODUCTION VALUES(15,'Karnataka','Belgaum','Sugarcane',2022,'Whole Year',1800,16200,9);
+
+INSERT INTO CROP_PRODUCTION VALUES(16,'Andhra Pradesh','Guntur','Chilli',2020,'Kharif',700,2100,3);
+
+INSERT INTO CROP_PRODUCTION VALUES(17,'Andhra Pradesh','Krishna','Rice',2021,'Kharif',1400,4900,3.5);
+
+INSERT INTO CROP_PRODUCTION VALUES(18,'Andhra Pradesh','Nellore','Rice',2022,'Kharif',1600,6400,4);
+
+INSERT INTO CROP_PRODUCTION VALUES(19,'Uttar Pradesh','Lucknow','Wheat',2020,'Rabi',2300,9200,4);
+
+INSERT INTO CROP_PRODUCTION VALUES(20,'Uttar Pradesh','Kanpur','Potato',2021,'Rabi',1000,12000,12);
+
+INSERT INTO CROP_PRODUCTION VALUES(21,'Uttar Pradesh','Agra','Wheat',2022,'Rabi',2500,11250,4.5);
+
+INSERT INTO CROP_PRODUCTION VALUES(22,'West Bengal','Burdwan','Rice',2020,'Kharif',1700,6800,4);
+
+INSERT INTO CROP_PRODUCTION VALUES(23,'West Bengal','Nadia','Jute',2021,'Kharif',800,2400,3);
+
+INSERT INTO CROP_PRODUCTION VALUES(24,'Kerala','Palakkad','Rice',2022,'Kharif',1000,3500,3.5);
+
+INSERT INTO CROP_PRODUCTION VALUES(25,'Kerala','Thrissur','Coconut',2021,'Whole Year',600,4800,8);
